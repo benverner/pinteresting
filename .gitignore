@@ -16,4 +16,4 @@
 /tmp
 
 # Uploaded images.
-/public/system/
+/public/system/*
